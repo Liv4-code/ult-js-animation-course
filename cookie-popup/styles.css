@@ -31,21 +31,21 @@ body {
 }
 
 .text {
-    width: 70%;
+    width: 80%;
 }
 
 .cookie-title {
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 
 .cookie-subtitle {
-    font-size: 0.7rem;
+    font-size: 0.6rem;
     font-weight: 500;
-    padding: 0.5rem 0rem;
+    padding: 0.7rem 0rem;
 }
 
 button {
-    font-size: 0.7rem;
+    font-size: 0.6rem;
     border-style: none;
     padding: 0.5rem 1rem;
     color: #4f2626;
