@@ -23,6 +23,7 @@ body {
     height: 10rem;
     padding: 1rem;
     font-family: "Poppins", sans-serif;
+    overflow: hidden;
 }
 
 .cookie {
