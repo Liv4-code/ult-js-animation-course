@@ -28,6 +28,7 @@ body {
 
 .cookie {
     transform: scale(0.6);
+    overflow: visible;
 }
 
 .text {
